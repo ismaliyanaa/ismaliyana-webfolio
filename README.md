@@ -1,6 +1,6 @@
 # 🌸 Portfolio 2026
 
-![Portfolio Banner](assets/homepage.png)
+![Portfolio Banner](assets/bannerpicture.png)
 
 ## 👋 Hey!
 
@@ -81,15 +81,15 @@ This portfolio represents both my technical skills and personal growth during my
 
 ### About Me Page
 
-![About Page](assets/aboutpage.png)
+![About Page](assets/aboutmepage.png)
 
 ### Projects Page
 
-![Projects Page](assets/projectpage.png)
+![Projects Page](assets/projectspage.png)
 
 ### Journey Blog Page
 
-![Journey Blog](assets/journeypage.png)
+![Journey Blog](assets/journeyblogpage.png)
 
 ### Contact Page
 
