@@ -11,7 +11,7 @@ body{
 
     padding: 40px;
 
-    background-color: #edf0f3;
+    background-color: #67264c;
 
     font-family: 'Poppins', sans-serif;
 }
@@ -31,7 +31,7 @@ body{
 
     gap:40px;
 
-    background-color:#f6f3ef;
+    background-color:#b83b69;
 
     border-radius:50px;
 
@@ -431,14 +431,10 @@ display: inline-block;
 
     font-size: 50px;
 
-    color: #214d9b;
+    color: #f3f4f7;
 
     margin-bottom: 40px;
 }
-
-
-
-
 
 
 .highlight-container{
@@ -459,7 +455,7 @@ display: inline-block;
 
 .highlight-card{
 
-    background-color: white;
+    background-color: rgb(177, 188, 193);
 
     border-radius: 30px;
 
@@ -1121,18 +1117,6 @@ display: inline-block;
 
 
 
-html{
-
-    scroll-behavior: smooth;
-}
-
-
-
-
-
-
-/* SCROLL TEXT */
-
 .scroll-text{
 
     position: absolute;
@@ -1147,59 +1131,5 @@ html{
 
     z-index: 2;
 
-    text-decoration: none;
-}
-
-
-
-
-
-
-/* TEXT */
-
-.scroll-text p{
-
-    font-size: 20px;
-
     color: white;
-
-    margin-bottom: 10px;
-}
-
-
-
-
-
-
-/* ARROW */
-
-.scroll-text span{
-
-    font-size: 30px;
-
-    color: white;
-
-    display: inline-block;
-
-    animation: bounce 1.5s infinite;
-}
-
-
-
-
-
-
-/* BOUNCE ANIMATION */
-
-@keyframes bounce{
-
-    0%,100%{
-
-        transform: translateY(0);
-    }
-
-    50%{
-
-        transform: translateY(10px);
-    }
 }
